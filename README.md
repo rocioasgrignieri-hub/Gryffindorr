@@ -111,20 +111,20 @@ A lo largo de este proyecto, aplicamos diversas herramientas de análisis de dat
 
 ## 📊 4. RESULTADOS Y ANÁLISIS VISUAL <a name="4-resultados-y-análisis-visual"></a>
 
-En esta sección incluimos y analizamos en profundidad las visualizaciones clave que dan soporte empírico a toda nuestra investigación[cite: 1]. Los hallazgos se estructuran desde la evaluación de la frontera biológica global, pasando por auditorías de eficiencia estatal, hasta el modelado predictivo del futuro demográfico[cite: 1].
+En esta sección incluimos y analizamos en profundidad las visualizaciones clave que dan soporte empírico a toda nuestra investigación. Los hallazgos se estructuran desde la evaluación de la frontera biológica global, pasando por auditorías de eficiencia estatal, hasta el modelado predictivo del futuro demográfico.
 
 ### 🌐 1. Extremos Globales de Longevidad: La Brecha Demográfica
 El análisis de los extremos del espectro global nos permite entender los límites biológicos y las urgencias humanitarias actuales.
 
 * **Título:** Top 10 Países con Mayor Expectativa de Vida (La Frontera Alta).
 * **Lectura Técnica:** Gráfico de barras horizontales aislando a los líderes mundiales (año 2015).
-* **Insight Analítico:** Países como Eslovenia y Dinamarca lideran el ranking muy pegados por encima de los 80 años[cite: 1]. Se observa una bajísima dispersión entre los primeros puestos, lo que sugiere la existencia de un "techo biológico y social" donde las sociedades avanzadas tienden a converger en un límite provisorio de supervivencia, dado el estado actual de la medicina[cite: 1].
+* **Insight Analítico:** Países como Eslovenia y Dinamarca lideran el ranking muy pegados por encima de los 80 años. Se observa una bajísima dispersión entre los primeros puestos, lo que sugiere la existencia de un "techo biológico y social" donde las sociedades avanzadas tienden a converger en un límite provisorio de supervivencia, dado el estado actual de la medicina.
 
 > ![Top 10 Mayor Expectativa de Vida](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Gr%C3%A1fico%20Top%20Pa%C3%ADses%20Mayor%20Expectativa%20de%20Vida.png?raw=true)
 
 * **Título:** Top 10 Países con Menor Expectativa de Vida (La Base de la Pirámide).
 * **Lectura Técnica:** Gráfico de barras horizontales enfocado en el percentil inferior global.
-* **Insight Analítico:** Naciones como Sierra Leona y Chad registran expectativas de vida que apenas rozan los 50 años[cite: 1]. Este gráfico visualiza una brecha global de longevidad de más de 30 años entre los extremos, siendo un reflejo directo de crisis epidemiológicas crónicas (como el impacto del HIV) y la falta severa de infraestructura básica[cite: 1].
+* **Insight Analítico:** Naciones como Sierra Leona y Chad registran expectativas de vida que apenas rozan los 50 años. Este gráfico visualiza una brecha global de longevidad de más de 30 años entre los extremos, siendo un reflejo directo de crisis epidemiológicas crónicas (como el impacto del HIV) y la falta severa de infraestructura básica.
 
 > ![Top 10 Menor Expectativa de Vida](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Gr%C3%A1fico%20Top%20Pa%C3%ADses%20Menor%20Expectativa%20de%20Vida.png?raw=true)
 
@@ -160,7 +160,7 @@ Evaluamos el comportamiento de Argentina como un laboratorio perfecto para cruza
 
 * **Título:** Evolución de la Expectativa de Vida vs. PBI en Argentina.
 * **Lectura Técnica:** Gráfico de evolución histórica temporal con doble eje Y (`twinx`), contrastando PBI en dólares y Años de Vida.
-* **Insight Analítico:** Mientras la línea del PBI argentino muestra caídas brutales y ciclos de crisis profundos, la línea de la esperanza de vida mantiene un crecimiento inercial, lento pero constante, casi inmune a los shocks financieros de corto plazo[cite: 1]. Esto valida nuestra *Hipótesis 1*: la longevidad no depende de la billetera del momento, sino de factores estructurales de largo plazo[cite: 1].
+* **Insight Analítico:** Mientras la línea del PBI argentino muestra caídas brutales y ciclos de crisis profundos, la línea de la esperanza de vida mantiene un crecimiento inercial, lento pero constante, casi inmune a los shocks financieros de corto plazo. Esto valida nuestra *Hipótesis 1*: la longevidad no depende de la billetera del momento, sino de factores estructurales de largo plazo.
 
 > [![Evolución PBI vs Expectativa](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Expectativa%20de%20Vida%20vs%20PBI%20Arg.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Expectativa%20de%20Vida%20vs%20PBI%20Arg.html)
 
@@ -168,8 +168,8 @@ Evaluamos el comportamiento de Argentina como un laboratorio perfecto para cruza
 Profundizamos en el desempeño del Estado argentino para medir el impacto real de sus políticas públicas en la salud de la población.
 
 * **Título:** Evolución de la Expectativa de Vida vs. Inversión en Salud Pública en Argentina.
-* **Lectura Técnica:** Gráfico de doble eje Y que cruza longevidad contra el porcentaje del presupuesto destinado a la salud[cite: 1].
-* **Insight Analítico:** Al analizar las curvas, descubrimos que los incrementos presupuestarios no se traducen de forma inmediata o lineal en más años de vida[cite: 1]. Existe un rezago temporal evidente y períodos de clara ineficiencia marginal[cite: 1]. Esto demuestra empíricamente que gastar más no sirve si se gasta de forma burocrática o centralizada[cite: 1].
+* **Lectura Técnica:** Gráfico de doble eje Y que cruza longevidad contra el porcentaje del presupuesto destinado a la salud.
+* **Insight Analítico:** Al analizar las curvas, descubrimos que los incrementos presupuestarios no se traducen de forma inmediata o lineal en más años de vida. Existe un rezago temporal evidente y períodos de clara ineficiencia marginal. Esto demuestra empíricamente que gastar más no sirve si se gasta de forma burocrática o centralizada.
 
 > [![Inversión en Salud](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Expectativa%20de%20Vida%20vs%20Salud%20Arg.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Expectativa%20de%20Vida%20vs%20Salud%20Arg.html)
 
@@ -177,8 +177,8 @@ Profundizamos en el desempeño del Estado argentino para medir el impacto real d
 Contrastamos la variable educativa para evaluar su peso relativo frente a las métricas económicas tradicionales.
 
 * **Título:** Evolución de la Expectativa de Vida vs. Nivel de Escolaridad en Argentina.
-* **Lectura Técnica:** Gráfico de evolución temporal superponiendo Esperanza de Vida y Años promedio de escolaridad[cite: 1].
-* **Insight Analítico:** A diferencia del PBI o del gasto sanitario, la curva de años promedio de estudio se desplaza con un paralelismo estructural asombroso junto a la línea de esperanza de vida; la sincronía es casi perfecta[cite: 1]. Esto aporta un respaldo empírico rotundo a nuestra *Hipótesis 2*: la educación y el capital humano son los verdaderos cimientos que sostienen el progreso demográfico y blindan a la población ante las crisis[cite: 1].
+* **Lectura Técnica:** Gráfico de evolución temporal superponiendo Esperanza de Vida y Años promedio de escolaridad.
+* **Insight Analítico:** A diferencia del PBI o del gasto sanitario, la curva de años promedio de estudio se desplaza con un paralelismo estructural asombroso junto a la línea de esperanza de vida; la sincronía es casi perfecta. Esto aporta un respaldo empírico rotundo a nuestra *Hipótesis 2*: la educación y el capital humano son los verdaderos cimientos que sostienen el progreso demográfico y blindan a la población ante las crisis.
 
 > [![Escolaridad vs Expectativa](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Expectativa%20de%20Vida%20vs%20Escolaridad%20Arg.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Expectativa%20de%20Vida%20vs%20Escolaridar%20Arg.html)
 
@@ -186,8 +186,8 @@ Contrastamos la variable educativa para evaluar su peso relativo frente a las m�
 El cruce definitivo entre las métricas biométricas de la OMS y los datos perceptivos de las encuestas ciudadanas globales.
 
 * **Título:** Expectativa de Vida vs. Puntuación de Felicidad.
-* **Lectura Técnica:** Gráfico de dispersión/burbujas dinámico. Cruza salud biológica con felicidad autopercibida, agrupando por clusters regionales (continentes)[cite: 1].
-* **Insight Analítico:** Los puntos dibujan una clarísima tendencia ascendente. Las regiones del mundo se agrupan en clusters: las sociedades con redes de apoyo sólidas, libertad personal y baja corrupción (ubicadas en el cuadrante superior derecho) viven sustancialmente más tiempo[cite: 1]. Esto demuestra que la salud del cuerpo está fuertemente ligada al bienestar social y emocional del entorno[cite: 1].
+* **Lectura Técnica:** Gráfico de dispersión/burbujas dinámico. Cruza salud biológica con felicidad autopercibida, agrupando por clusters regionales (continentes).
+* **Insight Analítico:** Los puntos dibujan una clarísima tendencia ascendente. Las regiones del mundo se agrupan en clusters: las sociedades con redes de apoyo sólidas, libertad personal y baja corrupción (ubicadas en el cuadrante superior derecho) viven sustancialmente más tiempo. Esto demuestra que la salud del cuerpo está fuertemente ligada al bienestar social y emocional del entorno.
 
 > [![Expectativa vs Felicidad](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Expectativa%20de%20Vida%20y%20Felicidad.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Expectativa%20de%20Vida%20y%20Felicidad.html)
 
@@ -195,8 +195,8 @@ El cruce definitivo entre las métricas biométricas de la OMS y los datos perce
 Aplicación de nuestro KPI de diseño propio para evaluar a las naciones superando el sesgo tradicional de la medición exclusiva por PBI.
 
 * **Título:** Top Países Líderes y Rezagados según Score de Bienestar y Salud (2015).
-* **Lectura Técnica:** Gráfico de barras horizontales divergentes aplicando nuestro modelo matemático ponderado (40% Vida, 30% Educación, 20% Felicidad, 10% PBI)[cite: 1].
-* **Insight Analítico:** La gran conclusión estratégica de este modelo es que los países pintados en verde que dominan la cima del Score no son necesariamente las superpotencias financieras más ricas del planeta[cite: 1]. Son aquellos países que logran el equilibrio óptimo entre desarrollo económico, capital humano robusto y altos niveles de felicidad[cite: 1]. Es la validación empírica absoluta de nuestra Hipótesis de Eficiencia[cite: 1].
+* **Lectura Técnica:** Gráfico de barras horizontales divergentes aplicando nuestro modelo matemático ponderado (40% Vida, 30% Educación, 20% Felicidad, 10% PBI).
+* **Insight Analítico:** La gran conclusión estratégica de este modelo es que los países pintados en verde que dominan la cima del Score no son necesariamente las superpotencias financieras más ricas del planeta. Son aquellos países que logran el equilibrio óptimo entre desarrollo económico, capital humano robusto y altos niveles de felicidad. Es la validación empírica absoluta de nuestra Hipótesis de Eficiencia.
 
 > [![Scoring Multidimensional](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Gr%C3%A1fico%20del%20Merge.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Gr%C3%A1fico%20del%20Merge.html)
 
@@ -204,8 +204,8 @@ Aplicación de nuestro KPI de diseño propio para evaluar a las naciones superan
 Transición del análisis descriptivo a la consultoría predictiva utilizando algoritmos de regresión.
 
 * **Título:** Pronóstico Interactivo de la Expectativa de Vida.
-* **Lectura Técnica:** Gráfico de series de tiempo proyectado hacia la próxima década mediante algoritmos predictivos, incluyendo sombreado de intervalos de confianza[cite: 1].
-* **Insight Analítico:** El modelo calcula que, si las condiciones e inversiones estructurales mantienen su inercia histórica, la esperanza de vida global continuará con una tendencia de crecimiento moderado y sostenido[cite: 1]. Esta proyección ofrece una base estadística sólida para la planificación estratégica y el desarrollo de políticas públicas a largo plazo[cite: 1].
+* **Lectura Técnica:** Gráfico de series de tiempo proyectado hacia la próxima década mediante algoritmos predictivos, incluyendo sombreado de intervalos de confianza.
+* **Insight Analítico:** El modelo calcula que, si las condiciones e inversiones estructurales mantienen su inercia histórica, la esperanza de vida global continuará con una tendencia de crecimiento moderado y sostenido. Esta proyección ofrece una base estadística sólida para la planificación estratégica y el desarrollo de políticas públicas a largo plazo.
 
 > [![Forecast Expectativa de Vida](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Forecast%20Expectativa%20de%20vida.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Forecast%20Expectativa%20de%20vida.html)
 
