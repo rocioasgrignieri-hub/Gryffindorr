@@ -229,6 +229,8 @@ Finalmente, aunque nuestro modelo predictivo (Forecast) proyecta un escenario ba
 
 ***Sesgos detectados:** Los datos analizados corresponden principalmente al año 2015. El análisis predictivo asume condiciones estables, por lo que shocks globales no previstos (como la pandemia del COVID-19 o crisis geopolíticas) actúan como sesgos que alterarían las tendencias calculadas por el modelo histórico*.
 
+---
+
 ## 🛠️ Notas Técnicas y Despliegue
 
-Si te interesa conocer la arquitectura que usamos para renderizar los gráficos interactivos de Python y sortear los bloqueos de GitHub para integrarlos en nuestra presentación, podés leer nuestra **[Documentación Técnica sobre el Despliegue](NOTAS_TECNICAS.md)**.
+Si te interesa conocer la arquitectura que diseñamos para renderizar visualizaciones dinámicas, sortear las políticas de origen (CORS) y lograr su integración directa en nuestra presentación ejecutiva, podés consultar el detalle en nuestro apartado de **[Despliegue de Gráficos Interactivos en Genially](GR%C3%81FICOS%20INTERACTIVOS%20EN%20GENIALLY)**.
