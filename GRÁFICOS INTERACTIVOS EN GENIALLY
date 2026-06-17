@@ -1,0 +1,26 @@
+## 🛠️DESPLIEGUE INTERACTIVO Y DOCUMENTACIÓN TÉCNICA <a name="5-despliegue-interactivo-y-documentación-técnica"></a>
+
+Uno de los hitos metodológicos de este proyecto fue la transición de reportes estáticos a visualizaciones dinámicas integradas en nuestra presentación ejecutiva (Genially). A continuación, se detalla la arquitectura de despliegue utilizada y la resolución de las limitaciones técnicas de renderizado.
+
+### 🛑 El Desafío: El Bloqueo de Renderizado de GitHub
+Por motivos de seguridad y políticas de origen, GitHub almacena y sirve los archivos `.html` como texto plano (código RAW) y no como páginas web ejecutables. Si se intenta insertar el link directo de un gráfico interactivo (generado con librerías como Plotly) en un contenedor web, el navegador lo bloqueará o lo mostrará como código fuente sin procesar.
+
+### 🔄 El Flujo de Trabajo (Pipeline de Despliegue)
+Para resolver esta limitación y lograr que los gráficos interactivos cobraran vida dentro de Genially, diseñamos el siguiente flujo de datos:
+
+1. **Generación:** Exportación del gráfico dinámico desde el entorno de Python (Jupyter Notebook / Google Colab) en formato de archivo web autónomo (`.html`).
+2. **Almacenamiento:** Carga del archivo `.html` al repositorio público de GitHub.
+3. **Proxy de Renderizado:** Enrutamiento del enlace a través de un motor de previsualización web compatible con directivas CORS, específicamente `htmlpreview.github.io`. Este servicio toma el código RAW de GitHub y lo renderiza en tiempo real como una página web ejecutable.
+4. **Embebido (Embedding):** Inserción del gráfico mediante un elemento de transferencia de hipertexto (`<iframe>`) en la interfaz de Genially.
+
+### 💻 Plantilla de Código Utilizada para Genially
+Para integrar los gráficos de forma fluida, respetando las proporciones visuales y otorgando los permisos de pantalla completa en Genially, se utilizó el apartado **Insertar > Otros > Código html (`</>`)** aplicando la siguiente estructura técnica estándar:
+
+```html
+<iframe 
+  src="[https://htmlpreview.github.io/?https://github.com/](https://htmlpreview.github.io/?https://github.com/)[USUARIO]/[REPOSITORIO]/blob/main/[ARCHIVO].html" 
+  width="100%" 
+  height="650px" 
+  frameborder="0" 
+  allowfullscreen>
+</iframe>
