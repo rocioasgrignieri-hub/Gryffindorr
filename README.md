@@ -228,3 +228,7 @@ Los hallazgos clave de nuestro análisis revelan que:
 Finalmente, aunque nuestro modelo predictivo (Forecast) proyecta un escenario base de crecimiento económico global continuo hacia 2025, el desafío real para los tomadores de decisiones será utilizar el análisis de datos para asegurar que dicha expansión financiera se convierta en eficiencia sanitaria, resiliencia demográfica y felicidad real.
 
 ***Sesgos detectados:** Los datos analizados corresponden principalmente al año 2015. El análisis predictivo asume condiciones estables, por lo que shocks globales no previstos (como la pandemia del COVID-19 o crisis geopolíticas) actúan como sesgos que alterarían las tendencias calculadas por el modelo histórico*.
+
+## 🛠️ Notas Técnicas y Despliegue
+
+Si te interesa conocer la arquitectura que usamos para renderizar los gráficos interactivos de Python y sortear los bloqueos de GitHub para integrarlos en nuestra presentación, podés leer nuestra **[Documentación Técnica sobre el Despliegue](NOTAS_TECNICAS.md)**.
