@@ -106,9 +106,7 @@ A continuación, se presentan los hallazgos fundamentales de la investigación, 
 * **Lectura Técnica:** Gráfico de burbujas interactivo donde el eje X representa el Happiness Score, el eje Y la Esperanza de Vida, el tamaño de la burbuja indica el volumen del PBI y el color agrupa por región geográfica.
 * **Insight Macroeconómico:** Se observa una clara segmentación global. Las regiones de Europa Occidental y Norteamérica se concentran en el cuadrante superior derecho, demostrando que el alto volumen económico (burbujas grandes) es un catalizador fundamental para el desarrollo social. Por el contrario, los países del África Subsahariana se agrupan en el cuadrante inferior izquierdo, evidenciando una trampa de pobreza donde el bajo PBI limita severamente la infraestructura de salud pública y la percepción de bienestar.
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> *Carga una imagen PNG de este gráfico en GitHub. Luego reemplaza los URLs en el siguiente código:*
-> `[![Radiografía Global](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+> [![Radiografía Global: Felicidad, Longevidad y Poder Económico](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Expectativa%20de%20Vida%20y%20Felicidad.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Expectativa%20de%20Vida%20y%20Felicidad.html)
 
 ### 📉 2. Relaciones Causales (Gráficos de Dispersión)
 En esta sección se analiza cómo diferentes variables demográficas y económicas impactan directamente en la longevidad de la población.
