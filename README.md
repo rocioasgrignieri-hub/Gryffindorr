@@ -98,84 +98,86 @@ A lo largo de este proyecto, aplicamos diversas herramientas de análisis de dat
 
 ---
 
-## 📈 4. RESULTADOS Y ANÁLISIS VISUAL <a name="4-resultados-y-análisis-visual"></a>
-A continuación, se presentan los hallazgos fundamentales de la investigación, estructurados desde una visión macroeconómica global hasta la proyección de tendencias futuras.
+## 📊 4. RESULTADOS Y ANÁLISIS VISUAL <a name="4-resultados-y-análisis-visual"></a>
 
-### 🌍 1. El Panorama Global (Gráfico de Burbujas)
-* **Título:** Radiografía Global: Felicidad, Longevidad y Poder Económico.
-* **Lectura Técnica:** Gráfico de burbujas interactivo donde el eje X representa el Happiness Score, el eje Y la Esperanza de Vida, el tamaño de la burbuja indica el volumen del PBI y el color agrupa por región geográfica.
-* **Insight Macroeconómico:** Se observa una clara segmentación global. Las regiones de Europa Occidental y Norteamérica se concentran en el cuadrante superior derecho, demostrando que el alto volumen económico (burbujas grandes) es un catalizador fundamental para el desarrollo social. Por el contrario, los países del África Subsahariana se agrupan en el cuadrante inferior izquierdo, evidenciando una trampa de pobreza donde el bajo PBI limita severamente la infraestructura de salud pública y la percepción de bienestar.
+En esta sección incluimos y analizamos en profundidad las visualizaciones clave que dan soporte empírico a toda nuestra investigación[cite: 1]. Los hallazgos se estructuran desde la evaluación de la frontera biológica global, pasando por auditorías de eficiencia estatal, hasta el modelado predictivo del futuro demográfico[cite: 1].
 
-> [![Radiografía Global: Felicidad, Longevidad y Poder Económico](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Expectativa%20de%20Vida%20y%20Felicidad.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Expectativa%20de%20Vida%20y%20Felicidad.html)
+### 🌐 1. Extremos Globales de Longevidad: La Brecha Demográfica
+El análisis de los extremos del espectro global nos permite entender los límites biológicos y las urgencias humanitarias actuales.
 
-### 📉 2. Relaciones Causales (Gráficos de Dispersión)
-En esta sección se analiza cómo diferentes variables demográficas y económicas impactan directamente en la longevidad de la población.
+* **Título:** Top 10 Países con Mayor Expectativa de Vida (La Frontera Alta).
+* **Lectura Técnica:** Gráfico de barras horizontales aislando a los líderes mundiales (año 2015).
+* **Insight Analítico:** Países como Eslovenia y Dinamarca lideran el ranking muy pegados por encima de los 80 años[cite: 1]. Se observa una bajísima dispersión entre los primeros puestos, lo que sugiere la existencia de un "techo biológico y social" donde las sociedades avanzadas tienden a converger en un límite provisorio de supervivencia, dado el estado actual de la medicina[cite: 1].
 
-* **Título:** El Impacto del Crecimiento Económico en la Longevidad.
-* **Lectura Técnica:** Gráfico de dispersión que contrasta el Producto Bruto Interno ajustado en miles (eje X) frente a la Esperanza de Vida (eje Y).
-* **Insight Macroeconómico:** El gráfico demuestra una curva de "rendimientos decrecientes". En las economías más pobres, pequeños aumentos en el PBI generan grandes saltos en la esperanza de vida. Sin embargo, una vez que un país alcanza un alto nivel de desarrollo, los aumentos adicionales de riqueza no se traducen linealmente en más años de vida, evidenciando que el PBI tiene un límite en su impacto biológico si no va acompañado de innovación médica.
+> 📌 **[INSERTAR GRÁFICO AQUÍ: Top 10 Mayor Expectativa]**
+> `[![Top 10 Mayor Expectativa](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Impacto PBI](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+* **Título:** Top 10 Países con Menor Expectativa de Vida (La Base de la Pirámide).
+* **Lectura Técnica:** Gráfico de barras horizontales enfocado en el percentil inferior global.
+* **Insight Analítico:** Naciones como Sierra Leona y Chad registran expectativas de vida que apenas rozan los 50 años[cite: 1]. Este gráfico visualiza una brecha global de longevidad de más de 30 años entre los extremos, siendo un reflejo directo de crisis epidemiológicas crónicas (como el impacto del HIV) y la falta severa de infraestructura básica[cite: 1].
 
-* **Título:** El Capital Humano como Motor de Desarrollo Sociosanitario.
-* **Lectura Técnica:** Gráfico de dispersión que correlaciona los años promedio de escolaridad formal (eje X) frente a la esperanza de vida (eje Y).
-* **Insight Macroeconómico:** Se observa una fuerte correlación lineal positiva que confirma la Teoría del Capital Humano. La educación fomenta la movilidad social, el acceso a mejores empleos y una mayor conciencia preventiva en salud. En términos económicos, una población educada no solo es más longeva, sino también más productiva para la matriz empresarial del país.
+> 📌 **[INSERTAR GRÁFICO AQUÍ: Top 10 Menor Expectativa]**
+> `[![Top 10 Menor Expectativa](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Capital Humano](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+### 📉 2. Caso de Estudio Nacional: Volatilidad Macroeconómica vs. Demografía
+Evaluamos el comportamiento de Argentina como un laboratorio perfecto para cruzar shocks financieros con indicadores de salud a lo largo del tiempo.
 
-* **Título:** El Costo Demográfico de la Mortalidad Prematura.
-* **Lectura Técnica:** Gráfico de dispersión que evalúa la relación inversamente proporcional entre las tasas de mortalidad infantil/adulta (eje X) y el promedio de esperanza de vida (eje Y).
-* **Insight Macroeconómico:** La estricta correlación negativa demuestra que la mayor "fuga de capital humano" en los países en vías de desarrollo ocurre en los primeros años de vida. Reducir la mortalidad infantil mediante políticas preventivas de bajo costo es la inversión estatal con el Retorno sobre la Inversión (ROI) social más alto para empujar el promedio de longevidad hacia arriba.
+* **Título:** Evolución de la Expectativa de Vida vs. PBI en Argentina.
+* **Lectura Técnica:** Gráfico de evolución histórica temporal con doble eje Y (`twinx`), contrastando PBI en dólares y Años de Vida.
+* **Insight Analítico:** Mientras la línea del PBI argentino muestra caídas brutales y ciclos de crisis profundos, la línea de la esperanza de vida mantiene un crecimiento inercial, lento pero constante, casi inmune a los shocks financieros de corto plazo[cite: 1]. Esto valida nuestra *Hipótesis 1*: la longevidad no depende de la billetera del momento, sino de factores estructurales de largo plazo[cite: 1].
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Mortalidad Prematura](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+> 📌 **[INSERTAR GRÁFICO AQUÍ: Expectativa vs PBI Arg]**
+> `[![Evolución PBI vs Expectativa](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
 
-* **Título:** Impacto Epidemiológico en el Estancamiento Demográfico.
-* **Lectura Técnica:** Gráfico de dispersión que vincula la prevalencia de VIH/SIDA (eje X) con la caída de la esperanza de vida (eje Y).
-* **Insight Macroeconómico:** Se evidencia un shock sanitario masivo, particularmente focalizado en naciones africanas, donde la esperanza de vida colapsa frente a altas tasas de infección. A nivel macroeconómico, este factor destruye la Población Económicamente Activa (PEA), generando un círculo vicioso de baja productividad, pérdida de mano de obra y una presión fiscal insostenible sobre la salud pública.
+### 🏛️ 3. Auditoría de Eficiencia Institucional
+Profundizamos en el desempeño del Estado argentino para medir el impacto real de sus políticas públicas en la salud de la población.
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Impacto Epidemiológico](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+* **Título:** Evolución de la Expectativa de Vida vs. Inversión en Salud Pública en Argentina.
+* **Lectura Técnica:** Gráfico de doble eje Y que cruza longevidad contra el porcentaje del presupuesto destinado a la salud[cite: 1].
+* **Insight Analítico:** Al analizar las curvas, descubrimos que los incrementos presupuestarios no se traducen de forma inmediata o lineal en más años de vida[cite: 1]. Existe un rezago temporal evidente y períodos de clara ineficiencia marginal[cite: 1]. Esto demuestra empíricamente que gastar más no sirve si se gasta de forma burocrática o centralizada[cite: 1].
 
-### 🏆 3. Casos de Éxito y Zonas Críticas (Rankings)
-(Pegar aquí la tabla o el gráfico de barras del Top 10. Creo que por el momento todavía lo tenemos en TOP 30)
+> 📌 **[INSERTAR GRÁFICO AQUÍ: Expectativa vs Inversión Salud]**
+> `[![Inversión en Salud](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
 
-* **Título:** Benchmarking Internacional: Líderes y Rezagados en Eficiencia.
-* **Lectura Técnica:** Segmentación de los extremos de la distribución (Top 10 y Bottom 10) calculados a partir de nuestro Score de Bienestar Integral y el Score de Riesgo Sanitario.
-* **Insight Macroeconómico:** El ranking de líderes no está dominado exclusivamente por los países con mayor PBI bruto, sino por aquellos que presentan la mayor eficiencia en la asignación de sus recursos, transformando riqueza en salud y educación. Por el contrario, la base del ranking refleja naciones penalizadas severamente por fallas en el control epidemiológico, lo que estanca su crecimiento económico.
+### 🧠 4. El Capital Humano como Escudo Estructural
+Contrastamos la variable educativa para evaluar su peso relativo frente a las métricas económicas tradicionales.
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR TABLA O GRÁFICO AQUÍ]**
-> *Para mostrar la tabla o gráfico, simplemente usa el formato de imagen estática:*
-> `![Ranking Top 10](URL_IMAGEN_PNG_AQUI)`
+* **Título:** Evolución de la Expectativa de Vida vs. Nivel de Escolaridad en Argentina.
+* **Lectura Técnica:** Gráfico de evolución temporal superponiendo Esperanza de Vida y Años promedio de escolaridad[cite: 1].
+* **Insight Analítico:** A diferencia del PBI o del gasto sanitario, la curva de años promedio de estudio se desplaza con un paralelismo estructural asombroso junto a la línea de esperanza de vida; la sincronía es casi perfecta[cite: 1]. Esto aporta un respaldo empírico rotundo a nuestra *Hipótesis 2*: la educación y el capital humano son los verdaderos cimientos que sostienen el progreso demográfico y blindan a la población ante las crisis[cite: 1].
 
-### 🇦🇷 4. Evolución Temporal y Eficiencia Estatal (Caso Argentina)
-Mediante gráficos de doble eje Y, se audita la evolución del bienestar social frente al desempeño institucional y económico del país.
+> 📌 **[INSERTAR GRÁFICO AQUÍ: Expectativa vs Escolaridad]**
+> `[![Escolaridad vs Expectativa](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
 
-* **Título:** Resiliencia Sanitaria frente a la Volatilidad Macroeconómica.
-* **Lectura Técnica:** Gráfico de líneas con doble escala. La línea azul marca la Esperanza de Vida (eje izquierdo), y la línea punteada verde traza la evolución del PBI (eje derecho).
-* **Insight Macroeconómico:** Permite observar la "asimetría temporal" entre economía y demografía. Las crisis y caídas del PBI en Argentina no provocan desplomes automáticos en la esperanza de vida. Esto sugiere que la infraestructura de salud instalada previamente funciona como un amortiguador social, sosteniendo la longevidad a pesar de los ciclos recesivos.
+### ⚕️ 5. Radiografía Global del Bienestar (Merge de Datos)
+El cruce definitivo entre las métricas biométricas de la OMS y los datos perceptivos de las encuestas ciudadanas globales.
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Resiliencia Argentina](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+* **Título:** Expectativa de Vida vs. Puntuación de Felicidad.
+* **Lectura Técnica:** Gráfico de dispersión/burbujas dinámico. Cruza salud biológica con felicidad autopercibida, agrupando por clusters regionales (continentes)[cite: 1].
+* **Insight Analítico:** Los puntos dibujan una clarísima tendencia ascendente. Las regiones del mundo se agrupan en clusters: las sociedades con redes de apoyo sólidas, libertad personal y baja corrupción (ubicadas en el cuadrante superior derecho) viven sustancialmente más tiempo[cite: 1]. Esto demuestra que la salud del cuerpo está fuertemente ligada al bienestar social y emocional del entorno[cite: 1].
 
-* **Título:** Análisis de Eficiencia del Gasto Público en Salud.
-* **Lectura Técnica:** Contraste de la Esperanza de Vida (eje izquierdo) con el Gasto en Salud medido como porcentaje del gasto total del Estado (eje derecho).
-* **Insight Macroeconómico:**……………...
+> 📌 **[INSERTAR GRÁFICO AQUÍ: Expectativa vs Felicidad]**
+> `[![Expectativa vs Felicidad](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Gasto Público Argentina](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+### ⚖️ 6. Evaluación Multidimensional: El Ranking de Scoring
+Aplicación de nuestro KPI de diseño propio para evaluar a las naciones superando el sesgo tradicional de la medición exclusiva por PBI.
 
-* **Título:** Efecto Compuesto de la Inversión Institucional a Largo Plazo.
-* **Lectura Técnica:** Superposición de la tendencia de la Esperanza de Vida (eje izquierdo) con el crecimiento de los años promedio de Escolaridad (eje derecho).
-* **Insight Macroeconómico:** El crecimiento paralelo de ambas líneas confirma el efecto compuesto de las políticas de Estado. A medida que nuevas generaciones ingresan al mercado con mayor escolaridad formal, sus mejores condiciones de empleabilidad elevan estructuralmente el piso de esperanza de vida a nivel nacional, blindando a la población contra la pobreza.
+* **Título:** Top Países Líderes y Rezagados según Score de Bienestar y Salud (2015).
+* **Lectura Técnica:** Gráfico de barras horizontales divergentes aplicando nuestro modelo matemático ponderado (40% Vida, 30% Educación, 20% Felicidad, 10% PBI)[cite: 1].
+* **Insight Analítico:** La gran conclusión estratégica de este modelo es que los países pintados en verde que dominan la cima del Score no son necesariamente las superpotencias financieras más ricas del planeta[cite: 1]. Son aquellos países que logran el equilibrio óptimo entre desarrollo económico, capital humano robusto y altos niveles de felicidad[cite: 1]. Es la validación empírica absoluta de nuestra Hipótesis de Eficiencia[cite: 1].
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Inversión Institucional](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+> 📌 **[INSERTAR GRÁFICO AQUÍ: Barras de Scoring]**
+> `[![Scoring Multidimensional](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
 
-### 📈 5. Proyección Estratégica (Forecast)
-* **Sesgos detectados:** Los datos analizados corresponden principalmente al año 2015. El análisis predictivo asume condiciones estables, por lo que shocks globales no previstos (como la pandemia del COVID-19 o crisis geopolíticas) actúan como sesgos que alterarían las tendencias calculadas por el modelo histórico.
+### 🔭 7. Proyección Estratégica (Machine Learning Forecast)
+Transición del análisis descriptivo a la consultoría predictiva utilizando algoritmos de regresión.
+
+* **Título:** Pronóstico Interactivo de la Expectativa de Vida.
+* **Lectura Técnica:** Gráfico de series de tiempo proyectado hacia la próxima década mediante algoritmos predictivos, incluyendo sombreado de intervalos de confianza[cite: 1].
+* **Insight Analítico:** El modelo calcula que, si las condiciones e inversiones estructurales mantienen su inercia histórica, la esperanza de vida global continuará con una tendencia de crecimiento moderado y sostenido[cite: 1]. Esta proyección ofrece una base estadística sólida para la planificación estratégica y el desarrollo de políticas públicas a largo plazo[cite: 1].
+
+> 📌 **[INSERTAR GRÁFICO AQUÍ: Forecast Expectativa / GDP]**
+> `[![Forecast Machine Learning](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
 
 * **Título:** Proyección Macroeconómica: Evolución del PBI Global hacia 2025.
 * **Lectura Técnica:** Gráfico de tendencias que superpone los datos históricos reales del PBI con la recta predictiva generada por nuestro modelo de Regresión Lineal proyectada hacia la próxima década.
@@ -183,7 +185,6 @@ Mediante gráficos de doble eje Y, se audita la evolución del bienestar social 
 
 > 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
 > `[![Forecast PBI](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
-
 ---
 
 ## 📌 5. RESULTADOS DESTACADOS <a name="5-resultados-destacados"></a>
