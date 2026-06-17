@@ -178,8 +178,7 @@ El cruce definitivo entre las métricas biométricas de la OMS y los datos perce
 * **Lectura Técnica:** Gráfico de dispersión/burbujas dinámico. Cruza salud biológica con felicidad autopercibida, agrupando por clusters regionales (continentes)[cite: 1].
 * **Insight Analítico:** Los puntos dibujan una clarísima tendencia ascendente. Las regiones del mundo se agrupan en clusters: las sociedades con redes de apoyo sólidas, libertad personal y baja corrupción (ubicadas en el cuadrante superior derecho) viven sustancialmente más tiempo[cite: 1]. Esto demuestra que la salud del cuerpo está fuertemente ligada al bienestar social y emocional del entorno[cite: 1].
 
-> 📌 **[INSERTAR GRÁFICO AQUÍ: Expectativa vs Felicidad]**
-> `[![Expectativa vs Felicidad](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
+> [![Expectativa vs Felicidad](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Expectativa%20de%20Vida%20y%20Felicidad.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Expectativa%20de%20Vida%20y%20Felicidad.html)
 
 ### ⚖️ 7. Evaluación Multidimensional: El Ranking de Scoring
 Aplicación de nuestro KPI de diseño propio para evaluar a las naciones superando el sesgo tradicional de la medición exclusiva por PBI.
@@ -188,8 +187,7 @@ Aplicación de nuestro KPI de diseño propio para evaluar a las naciones superan
 * **Lectura Técnica:** Gráfico de barras horizontales divergentes aplicando nuestro modelo matemático ponderado (40% Vida, 30% Educación, 20% Felicidad, 10% PBI)[cite: 1].
 * **Insight Analítico:** La gran conclusión estratégica de este modelo es que los países pintados en verde que dominan la cima del Score no son necesariamente las superpotencias financieras más ricas del planeta[cite: 1]. Son aquellos países que logran el equilibrio óptimo entre desarrollo económico, capital humano robusto y altos niveles de felicidad[cite: 1]. Es la validación empírica absoluta de nuestra Hipótesis de Eficiencia[cite: 1].
 
-> 📌 **[INSERTAR GRÁFICO AQUÍ: Barras de Scoring]**
-> `[![Scoring Multidimensional](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
+> [![Scoring Multidimensional](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Gr%C3%A1fico%20del%20Merge.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Gr%C3%A1fico%20del%20Merge.html)
 
 ### 🔭 8. Proyección Estratégica (Machine Learning Forecast)
 Transición del análisis descriptivo a la consultoría predictiva utilizando algoritmos de regresión.
