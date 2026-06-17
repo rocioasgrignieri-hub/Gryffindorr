@@ -124,29 +124,25 @@ En esta sección se analiza cómo diferentes variables demográficas y económic
 * **Lectura Técnica:** Gráfico de dispersión que contrasta el Producto Bruto Interno ajustado en miles (eje X) frente a la Esperanza de Vida (eje Y).
 * **Insight Macroeconómico:** El gráfico demuestra una curva de "rendimientos decrecientes". En las economías más pobres, pequeños aumentos en el PBI generan grandes saltos en la esperanza de vida. Sin embargo, una vez que un país alcanza un alto nivel de desarrollo, los aumentos adicionales de riqueza no se traducen linealmente en más años de vida, evidenciando que el PBI tiene un límite en su impacto biológico si no va acompañado de innovación médica.
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Impacto PBI](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+> ![Impacto PBI](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Correlaci%C3%B3n%20Expectativa%20de%20Vida%20y%20PBI.png?raw=true)
 
 * **Título:** El Capital Humano como Motor de Desarrollo Sociosanitario.
 * **Lectura Técnica:** Gráfico de dispersión que correlaciona los años promedio de escolaridad formal (eje X) frente a la esperanza de vida (eje Y).
 * **Insight Macroeconómico:** Se observa una fuerte correlación lineal positiva que confirma la Teoría del Capital Humano. La educación fomenta la movilidad social, el acceso a mejores empleos y una mayor conciencia preventiva en salud. En términos económicos, una población educada no solo es más longeva, sino también más productiva para la matriz empresarial del país.
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Capital Humano](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+> ![Capital Humano](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Correlaci%C3%B3n%20Expectativa%20de%20Vida%20y%20Escolaridad.png?raw=true)
 
 * **Título:** El Costo Demográfico de la Mortalidad Prematura.
 * **Lectura Técnica:** Gráfico de dispersión que evalúa la relación inversamente proporcional entre las tasas de mortalidad infantil/adulta (eje X) y el promedio de esperanza de vida (eje Y).
 * **Insight Macroeconómico:** La estricta correlación negativa demuestra que la mayor "fuga de capital humano" en los países en vías de desarrollo ocurre en los primeros años de vida. Reducir la mortalidad infantil mediante políticas preventivas de bajo costo es la inversión estatal con el Retorno sobre la Inversión (ROI) social más alto para empujar el promedio de longevidad hacia arriba.
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Mortalidad Prematura](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+> ![Mortalidad Prematura](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Correlaci%C3%B3n%20Expectativa%20de%20Vida%20y%20Mortalidad%20Infantil.png?raw=true)
 
 * **Título:** Impacto Epidemiológico en el Estancamiento Demográfico.
 * **Lectura Técnica:** Gráfico de dispersión que vincula la prevalencia de VIH/SIDA (eje X) con la caída de la esperanza de vida (eje Y).
 * **Insight Macroeconómico:** Se evidencia un shock sanitario masivo, particularmente focalizado en naciones africanas, donde la esperanza de vida colapsa frente a altas tasas de infección. A nivel macroeconómico, este factor destruye la Población Económicamente Activa (PEA), generando un círculo vicioso de baja productividad, pérdida de mano de obra y una presión fiscal insostenible sobre la salud pública.
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Impacto Epidemiológico](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+> ![Impacto Epidemiológico](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Correlaci%C3%B3n%20Expectativa%20de%20Vida%20y%20HIV.png?raw=true)
 
 ### 📉 3. Caso de Estudio Nacional: Volatilidad Macroeconómica vs. Demografía
 Evaluamos el comportamiento de Argentina como un laboratorio perfecto para cruzar shocks financieros con indicadores de salud a lo largo del tiempo.
