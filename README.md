@@ -1,6 +1,17 @@
 # 🌍 ANÁLISIS GLOBAL: ESPERANZA DE VIDA Y BIENESTAR
 
 ---
+> **Pregunta de investigación:** ¿Qué factores definen realmente cuánto y cómo vivimos? Este proyecto demuestra empíricamente que la riqueza nacional (PBI) tiene un límite biológico y que el capital humano (educación) junto con la eficiencia estatal son los verdaderos motores de la longevidad.
+
+---
+
+## 👥 Presentación del Equipo
+* **Integrantes:** Rocío Sgrignieri, Facundo Cortiñas, Bernardita Castillo y Agustín López
+* **Carrera:** Licenciatura en Economía Empresarial (3er Año)
+* **Materia:** Ciencia de Datos I
+* **Universidad:** Universidad Católica Argentina (UCA) - Sede Mendoza
+
+---
 
 ## 📋 Índice Interactivo
 1. [Descripción del Proyecto](#1-descripción-del-proyecto)
