@@ -1,5 +1,6 @@
 ## Gryffindorr
 ##ANÁLISIS GLOBAL: ESPERANZA DE VIDA, DESARROLLO ECONÓMICO Y BIENESTAR
+
 #DESCRIPCIÓN DEL PROYECTO:
 Este proyecto de análisis cuantitativo evalúa cómo las variables macroeconómicas y los determinantes de salud pública impactan en la calidad de vida a nivel global. A través del procesamiento de bases de datos internacionales, el objetivo es comprender de qué manera el nivel de riqueza (PBI), de estudio y de salud pública (entre otras variables que analizaremos a continuación) se traduce en mejoras tangibles en las condiciones sanitarias y el bienestar social de la población.
 
