@@ -109,15 +109,13 @@ El análisis de los extremos del espectro global nos permite entender los límit
 * **Lectura Técnica:** Gráfico de barras horizontales aislando a los líderes mundiales (año 2015).
 * **Insight Analítico:** Países como Eslovenia y Dinamarca lideran el ranking muy pegados por encima de los 80 años[cite: 1]. Se observa una bajísima dispersión entre los primeros puestos, lo que sugiere la existencia de un "techo biológico y social" donde las sociedades avanzadas tienden a converger en un límite provisorio de supervivencia, dado el estado actual de la medicina[cite: 1].
 
-> 📌 **[INSERTAR GRÁFICO AQUÍ: Top 10 Mayor Expectativa]**
-> `[![Top 10 Mayor Expectativa](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
+> ![Top 10 Mayor Expectativa de Vida](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Gr%C3%A1fico%20Top%20Pa%C3%ADses%20Mayor%20Expectativa%20de%20Vida.png?raw=true)
 
 * **Título:** Top 10 Países con Menor Expectativa de Vida (La Base de la Pirámide).
 * **Lectura Técnica:** Gráfico de barras horizontales enfocado en el percentil inferior global.
 * **Insight Analítico:** Naciones como Sierra Leona y Chad registran expectativas de vida que apenas rozan los 50 años[cite: 1]. Este gráfico visualiza una brecha global de longevidad de más de 30 años entre los extremos, siendo un reflejo directo de crisis epidemiológicas crónicas (como el impacto del HIV) y la falta severa de infraestructura básica[cite: 1].
 
-> 📌 **[INSERTAR GRÁFICO AQUÍ: Top 10 Menor Expectativa]**
-> `[![Top 10 Menor Expectativa](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
+> ![Top 10 Menor Expectativa de Vida](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Gr%C3%A1fico%20Top%20Pa%C3%ADses%20Menor%20Expectativa%20de%20Vida.png?raw=true)
 
 ### 📉 2. Relaciones Causales (Gráficos de Dispersión)
 En esta sección se analiza cómo diferentes variables demográficas y económicas impactan directamente en la longevidad de la población.
