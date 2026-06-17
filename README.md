@@ -196,15 +196,13 @@ Transición del análisis descriptivo a la consultoría predictiva utilizando al
 * **Lectura Técnica:** Gráfico de series de tiempo proyectado hacia la próxima década mediante algoritmos predictivos, incluyendo sombreado de intervalos de confianza[cite: 1].
 * **Insight Analítico:** El modelo calcula que, si las condiciones e inversiones estructurales mantienen su inercia histórica, la esperanza de vida global continuará con una tendencia de crecimiento moderado y sostenido[cite: 1]. Esta proyección ofrece una base estadística sólida para la planificación estratégica y el desarrollo de políticas públicas a largo plazo[cite: 1].
 
-> 📌 **[INSERTAR GRÁFICO AQUÍ: Forecast Expectativa / GDP]**
-> `[![Forecast Machine Learning](URL_DE_TU_IMAGEN_PNG_AQUI)](URL_GITHACK_SI_ES_INTERACTIVO_O_BORRAR_PARENTESIS)`
+> [![Forecast Expectativa de Vida](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Forecast%20Expectativa%20de%20vida.png?raw=true)](https://raw.githack.com/rocioasgrignieri-hub/Gryffindorr/main/Forecast%20Expectativa%20de%20vida.html)
 
 * **Título:** Proyección Macroeconómica: Evolución del PBI Global hacia 2025.
 * **Lectura Técnica:** Gráfico de tendencias que superpone los datos históricos reales del PBI con la recta predictiva generada por nuestro modelo de Regresión Lineal proyectada hacia la próxima década.
 * **Insight Macroeconómico:** El modelo estadístico confirma una tendencia de base alcista para la economía global, sustentada por un alto nivel de precisión métrica (R2). Sin embargo, desde una óptica de planificación estratégica, este escenario "Base" asume una continuidad histórica y deberá ser ajustado ante potenciales shocks externos (como crisis financieras o coyunturas pandémicas) que puedan alterar la pendiente de crecimiento proyectada por el algoritmo.
 
-> 📌 **[INSTRUCCIÓN PARA INSERTAR GRÁFICO AQUÍ]**
-> `[![Forecast PBI](URL_IMAGEN_PNG_AQUI)](URL_GITHACK_INTERACTIVO_AQUI)`
+> ![Forecast PBI](https://github.com/rocioasgrignieri-hub/Gryffindorr/blob/main/Forecast%20Desarrollo%20del%20PBI.png?raw=true)
 ---
 
 ## 📌 5. RESULTADOS DESTACADOS <a name="5-resultados-destacados"></a>
